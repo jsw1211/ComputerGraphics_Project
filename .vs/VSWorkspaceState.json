@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CG_Project",
+    "\\CG_Project\\CG_Project"
   ],
+  "SelectedNode": "\\CG_Project\\CG_Project\\CG_Project.cpp",
   "PreviewInSolutionExplorer": false
 }
