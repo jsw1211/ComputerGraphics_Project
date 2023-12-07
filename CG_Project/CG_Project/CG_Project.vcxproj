@@ -141,6 +141,10 @@
   <ItemGroup>
     <ClCompile Include="CG_Project.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\Fragment_common.glsl" />
+    <None Include="..\..\Vertex_common.glsl" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
